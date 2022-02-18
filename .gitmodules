@@ -1,0 +1,3 @@
+[submodule "catkin_Ws/src/moveo_ros"]
+	path = catkin_Ws/src/moveo_ros
+	url = https://github.com/jesseweisberg/moveo_ros/
